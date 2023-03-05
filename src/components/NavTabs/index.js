@@ -1,9 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import styles from "./my-style.module.css";
 
 function NavTabs() {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tab">
       <li className="nav-item">
         <NavLink
           to="/my-profile/"
@@ -17,12 +18,12 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <NavLink
-          to="/my-profile/about"
+          to="/my-profile/project-gallery"
           className={({ isActive }) =>
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          About
+          Project Gallery
         </NavLink>
       </li>
       <li className="nav-item">
