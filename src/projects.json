@@ -1,0 +1,17 @@
+[
+    {
+        "image": "https://picsum.photos/500/300?img=1",
+        "alt": "First slide",
+        "heading": "First slide label"
+    },
+    {
+        "image": "https://picsum.photos/500/300?img=2",
+        "alt": "Second slide",
+        "heading": "Second slide label"
+    },
+    {
+        "image": "https://picsum.photos/500/300?img=3",
+        "alt": "Third slide",
+        "heading": "Third slide label"
+    }   
+]
