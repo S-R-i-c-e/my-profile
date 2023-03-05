@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-import Learn from './Learn';
+import Learn from '../Learn';
+import styles from "./my-style.module.css";
 
 function Contact(props) {
   return (
