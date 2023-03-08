@@ -1,12 +1,11 @@
 import React from "react";
-import styles from "./my-style.module.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
 function ProjectI(data) {
     return (
-        <Card style={{ width: '18rem' }}>
+      <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src={data.image} />
         <Card.Body>
           <Card.Title>{data.heading}</Card.Title>

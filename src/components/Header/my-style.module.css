@@ -1,3 +1,11 @@
-.heroic {
-    background-color: bisque;
+.header {
+    background-color: var(--back-ground-color);
+}
+
+.header h1 {
+    font-family: var(--title-font);
+}
+
+.header p {
+    font-family: var(--primary-font);
 }

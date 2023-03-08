@@ -1,11 +1,18 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 import Learn from '../Learn';
-import styles from "./my-style.module.css";
+
 
 function Contact(props) {
   return (
     <div>
+      <style type="text/css">
+        {`
+        body {
+          background-color: var(--back-ground-color);
+        }
+        `}
+      </style>
       <h1>Contact Page</h1>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis

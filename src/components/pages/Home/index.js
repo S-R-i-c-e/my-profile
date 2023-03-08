@@ -1,9 +1,19 @@
 import React from "react";
-import styles from "./my-style.module.css";
 
 function Home() {
   return (
     <div>
+      <style type="text/css">
+        {`
+        body {
+          background-color: var(--back-ground-color);
+          color: var(--primary-color);
+        }
+        h1 {
+          font-family: var(--title-font);
+        }
+        `}
+      </style>
       <h1>Home Page</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna

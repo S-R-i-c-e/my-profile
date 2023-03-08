@@ -1,29 +1,28 @@
 import React from "react";
-import styles from "./my-style.module.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import ProjectI from "../ProjectI/index.js";
+
 import projects from "../../../projects.json"
+
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
 
 function ProjectGalleryI() {
 
-    return (
-      <div>
-        <div className='container-fluid' >
-          <div className="row">
-            <div className="col-sm-12">
-              <h3>Project Gallery</h3>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-12">
+  return (
+    <div>
+      <Container fluid>
+        <Row>
+          <h3>Project Gallery</h3>
+        </Row>
+        <Row>
 
-                {projects.map(project => <ProjectI {...project} />)}
+          {projects.map(project => <ProjectI {...project} />)}
 
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  }
-  
-  export default ProjectGalleryI;
+        </Row>
+      </Container>
+    </div>
+  );
+}
+
+export default ProjectGalleryI;
