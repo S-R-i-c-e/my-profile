@@ -11,6 +11,9 @@ function Contact(props) {
         body {
           background-color: var(--back-ground-color);
         }
+        h1 {
+          
+        }
         `}
       </style>
       <h1>Contact Page</h1>

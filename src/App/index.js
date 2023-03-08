@@ -6,10 +6,18 @@ import Home from '../components/pages/Home/index.js';
 import ProjectGalleryI from '../components/pages/ProjectGalleryI/index.js';
 import Contact from '../components/pages/Contact/index.js';
 import Container from 'react-bootstrap/Container';
-import styles from "./my-style.module.css";
 
 function App() {
   return (
+    <>
+    <style type="text/css">
+      {`
+      body {
+        background-color: var(--back-ground-color);
+        color: var(--primary-color);
+        font-family
+      }`}
+    </style>
     <Container fluid>
       <Router>
         <div>
@@ -25,6 +33,7 @@ function App() {
         </div>
       </Router>
     </Container>
+    </>
   );
 }
 

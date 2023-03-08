@@ -1,17 +1,50 @@
 [
     {
-        "image": "https://picsum.photos/500/300?img=1",
-        "alt": "First slide",
-        "heading": "First slide label"
+        "image": "./images/readme-write.png",
+        "alt": "first project card",
+        "heading": "readme-write",
+        "summary": "Use the bash command line to write a project readme.",
+        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "repo": "https://github.com/S-R-i-c-e/readme-write"
     },
     {
-        "image": "https://picsum.photos/500/300?img=2",
-        "alt": "Second slide",
-        "heading": "Second slide label"
+        "image": "./images/travellers-friend.png",
+        "alt": "second project card",
+        "heading": "The Traveller's Friend",
+        "summary": "Group project using various API's to assist the traveller",
+        "description": "Employs Bootstrap, three server-side API's, and local storage.",
+        "repo": "https://github.com/S-R-i-c-e/TheAntonLeeSteveProject"
     },
     {
-        "image": "https://picsum.photos/500/300?img=3",
-        "alt": "Third slide",
-        "heading": "Third slide label"
-    }   
+        "image": "./assets/images/feigenbaum.png",
+        "alt": "first project card",
+        "heading": "readme-write",
+        "summary": "Use the bash command line to write a project readme.",
+        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "repo": "https://github.com/S-R-i-c-e/feigenbaum"
+    },
+    {
+        "image": "./assets/images/readme-write.png",
+        "alt": "first project card",
+        "heading": "readme-write",
+        "summary": "Use the bash command line to write a project readme.",
+        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "repo": "https://github.com/S-R-i-c-e/readme-write"
+    },
+    {
+        "image": "./assets/images/readme-write.png",
+        "alt": "first project card",
+        "heading": "readme-write",
+        "summary": "Use the bash command line to write a project readme.",
+        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "repo": "https://github.com/S-R-i-c-e/readme-write"
+    },
+    {
+        "image": "./assets/images/readme-write.png",
+        "alt": "first project card",
+        "heading": "readme-write",
+        "summary": "Use the bash command line to write a project readme.",
+        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "repo": "https://github.com/S-R-i-c-e/readme-write"
+    }
 ]

@@ -12,6 +12,7 @@ function NavTabs() {
 
       }
       .nav-tab {
+        background-color: var(--back-ground-color);
         color: var(--primary-color);
         font-family: var(--title-font);
       }
