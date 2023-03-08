@@ -1,11 +1,12 @@
-.navigator {
-    background-color: var(--back-ground-color);
+.nav-item{
+    background-color: #f6eabe;
+
 }
 
-.navigator li {
-    font-family: var(--title-font);
+.nav-link {
+    font-family: 'Squada One';
 }
 
 .header p {
-    font-family: var(--primary-font);
+    font-family: 'Squada One';
 }
