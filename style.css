@@ -1,0 +1,14 @@
+:root {
+     --primary-font: 'Squada One', Arial, Helvetica, sans-serif;
+     --title-font: 'Caveat', Times, serif;
+     --back-ground-color: #f6eabe;
+     --primary-color: #fcbe08;
+     --secondary-color: #15fc08;
+     --tertiary-color: #5c08fc;
+     --primary-color: #000080;
+}
+
+body {
+    background-color: var(--back-ground-color);
+    font-family: var(--primary-font);
+}
