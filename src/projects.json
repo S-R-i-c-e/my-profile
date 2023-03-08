@@ -4,47 +4,47 @@
         "alt": "first project card",
         "heading": "readme-write",
         "summary": "Use the bash command line to write a project readme.",
-        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "description": "Employs Inquirer and a modicum of modularity. Write the best readmes in the Universe.",
         "repo": "https://github.com/S-R-i-c-e/readme-write"
     },
     {
         "image": "./images/travellers-friend.png",
         "alt": "second project card",
-        "heading": "The Traveller's Friend",
+        "heading": "Traveller's Friend",
         "summary": "Group project using various API's to assist the traveller",
         "description": "Employs Bootstrap, three server-side API's, and local storage.",
         "repo": "https://github.com/S-R-i-c-e/TheAntonLeeSteveProject"
     },
     {
-        "image": "./assets/images/feigenbaum.png",
-        "alt": "first project card",
-        "heading": "readme-write",
-        "summary": "Use the bash command line to write a project readme.",
-        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
+        "image": "./images/feigenbaum.png",
+        "alt": "third project card",
+        "heading": "Feigenbaum Diagram",
+        "summary": "Generates a Feigenbaum Diagram.",
+        "description": "Using java script annd the canvas element - a work in progress",
         "repo": "https://github.com/S-R-i-c-e/feigenbaum"
     },
     {
-        "image": "./assets/images/readme-write.png",
-        "alt": "first project card",
-        "heading": "readme-write",
-        "summary": "Use the bash command line to write a project readme.",
-        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
-        "repo": "https://github.com/S-R-i-c-e/readme-write"
+        "image": "./images/passwordII.png",
+        "alt": "fourth project card",
+        "heading": "Password Generator",
+        "summary": "Now you're glad you came! Leave your brains at the door and let Son of ChatGPT generate a password - just for you ;o)",
+        "description": "Javascript, HTML and css.",
+        "repo": "https://github.com/S-R-i-c-e/PasswordII"
     },
     {
-        "image": "./assets/images/readme-write.png",
-        "alt": "first project card",
-        "heading": "readme-write",
-        "summary": "Use the bash command line to write a project readme.",
-        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
-        "repo": "https://github.com/S-R-i-c-e/readme-write"
+        "image": "./images/weather-report.png",
+        "alt": "fifth project card",
+        "heading": "Weather Report",
+        "summary": "Umbrella, sunglasses, stout-boots? Guess no longer, thanks to OpenWeatherMap.org.",
+        "description": "OpenWeatherMap API and all manner of class-based js - a tour-de-force.",
+        "repo": "https://github.com/S-R-i-c-e/weather-report"
     },
     {
-        "image": "./assets/images/readme-write.png",
-        "alt": "first project card",
-        "heading": "readme-write",
-        "summary": "Use the bash command line to write a project readme.",
-        "description": "Employs Inquirer and a modicum of modularity to write the best readmes yet seen.",
-        "repo": "https://github.com/S-R-i-c-e/readme-write"
+        "image": "./images/team-profile.png",
+        "alt": "sixth project card",
+        "heading": "Team Profile",
+        "summary": "Can it be real? [rubs-eyes] ..No pinch me. Wow - just, Wow!",
+        "description": "It's a command line team profile thing.",
+        "repo": "https://github.com/S-R-i-c-e/team-profile"
     }
 ]
